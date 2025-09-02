@@ -37,4 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
+| [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Graph
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
