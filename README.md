@@ -39,22 +39,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/amansaroj9616/leetCode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/amansaroj9616/leetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/amansaroj9616/leetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/amansaroj9616/leetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Stack
