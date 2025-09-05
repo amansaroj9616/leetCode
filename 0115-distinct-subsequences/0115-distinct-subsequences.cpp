@@ -5,13 +5,9 @@ public:
         int m = t.size();
 
         vector<vector<unsigned long long>> dp(n+1, vector<unsigned long long>(m+1, 0));
-
-        // base case: empty t
         for (int i = 0; i <= n; i++) {
             dp[i][0] = 1;
         }
-
-        // fill DP
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= m; j++) {
                 if (s[i-1] == t[j-1]) {
@@ -22,6 +18,6 @@ public:
             }
         }
 
-        return (int)dp[n][m];  // LeetCode ensures fits in int
+        return (int)dp[n][m]; 
     }
 };
