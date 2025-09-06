@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/amansaroj9616/leetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
@@ -102,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/amansaroj9616/leetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
