@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/amansaroj9616/leetCode/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
