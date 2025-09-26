@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amansaroj9616/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amansaroj9616/leetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amansaroj9616/leetCode/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
