@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amansaroj9616/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/amansaroj9616/leetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amansaroj9616/leetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
