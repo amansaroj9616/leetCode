@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/amansaroj9616/leetCode/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amansaroj9616/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amansaroj9616/leetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Breadth-First Search
