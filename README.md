@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/amansaroj9616/leetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/amansaroj9616/leetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amansaroj9616/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/amansaroj9616/leetCode/tree/master/0198-house-robber) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/amansaroj9616/leetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/amansaroj9616/leetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
