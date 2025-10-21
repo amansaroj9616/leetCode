@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/amansaroj9616/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/amansaroj9616/leetCode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/amansaroj9616/leetCode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/amansaroj9616/leetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/amansaroj9616/leetCode/tree/master/0343-integer-break) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amansaroj9616/leetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/amansaroj9616/leetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/amansaroj9616/leetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/amansaroj9616/leetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amansaroj9616/leetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
