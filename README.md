@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/amansaroj9616/leetCode/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amansaroj9616/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Database
 |  |
