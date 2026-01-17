@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/amansaroj9616/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/amansaroj9616/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/amansaroj9616/leetCode/tree/master/0343-integer-break) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amansaroj9616/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
