@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amansaroj9616/leetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/amansaroj9616/leetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/amansaroj9616/leetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/amansaroj9616/leetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/amansaroj9616/leetCode/tree/master/0343-integer-break) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Geometry
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
