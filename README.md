@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/amansaroj9616/leetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/amansaroj9616/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amansaroj9616/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Database
