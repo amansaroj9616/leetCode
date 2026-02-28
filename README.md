@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/amansaroj9616/leetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/amansaroj9616/leetCode/tree/master/0343-integer-break) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amansaroj9616/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amansaroj9616/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Database
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
