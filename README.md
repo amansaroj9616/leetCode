@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amansaroj9616/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/amansaroj9616/leetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amansaroj9616/leetCode/tree/master/3714-longest-balanced-substring-ii) |
