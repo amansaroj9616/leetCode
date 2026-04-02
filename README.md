@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amansaroj9616/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Breadth-First Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amansaroj9616/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/amansaroj9616/leetCode/tree/master/1975-maximum-matrix-sum) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
