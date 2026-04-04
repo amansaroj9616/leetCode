@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amansaroj9616/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/amansaroj9616/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/amansaroj9616/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amansaroj9616/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2751-robot-collisions](https://github.com/amansaroj9616/leetCode/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amansaroj9616/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amansaroj9616/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/amansaroj9616/leetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amansaroj9616/leetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/amansaroj9616/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/amansaroj9616/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Combinatorics
 |  |
 | ------- |
