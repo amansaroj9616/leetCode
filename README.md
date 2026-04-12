@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amansaroj9616/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amansaroj9616/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amansaroj9616/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amansaroj9616/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
