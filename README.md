@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amansaroj9616/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/amansaroj9616/leetCode/tree/master/1975-maximum-matrix-sum) |
+| [2463-minimum-total-distance-traveled](https://github.com/amansaroj9616/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/amansaroj9616/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2751-robot-collisions](https://github.com/amansaroj9616/leetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/amansaroj9616/leetCode/tree/master/0455-assign-cookies) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amansaroj9616/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2463-minimum-total-distance-traveled](https://github.com/amansaroj9616/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/amansaroj9616/leetCode/tree/master/2751-robot-collisions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amansaroj9616/leetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amansaroj9616/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2463-minimum-total-distance-traveled](https://github.com/amansaroj9616/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
