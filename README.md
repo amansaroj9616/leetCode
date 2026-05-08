@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/amansaroj9616/leetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansaroj9616/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/amansaroj9616/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/amansaroj9616/leetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/amansaroj9616/leetCode/tree/master/3660-jump-game-ix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amansaroj9616/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amansaroj9616/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/amansaroj9616/leetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/amansaroj9616/leetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amansaroj9616/leetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/amansaroj9616/leetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
 | ------- |
