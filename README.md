@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/amansaroj9616/leetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/amansaroj9616/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amansaroj9616/leetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amansaroj9616/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/amansaroj9616/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2751-robot-collisions](https://github.com/amansaroj9616/leetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amansaroj9616/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amansaroj9616/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/amansaroj9616/leetCode/tree/master/2751-robot-collisions) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
