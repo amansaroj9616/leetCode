@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amansaroj9616/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amansaroj9616/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amansaroj9616/leetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amansaroj9616/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/amansaroj9616/leetCode/tree/master/1975-maximum-matrix-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amansaroj9616/leetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/amansaroj9616/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/amansaroj9616/leetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3714-longest-balanced-substring-ii](https://github.com/amansaroj9616/leetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amansaroj9616/leetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/amansaroj9616/leetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amansaroj9616/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
