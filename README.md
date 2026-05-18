@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
+| [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amansaroj9616/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amansaroj9616/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
+| [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amansaroj9616/leetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/amansaroj9616/leetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amansaroj9616/leetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansaroj9616/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansaroj9616/leetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
