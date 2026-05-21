@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/amansaroj9616/leetCode/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amansaroj9616/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amansaroj9616/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/amansaroj9616/leetCode/tree/master/3488-closest-equal-element-queries) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/amansaroj9616/leetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/amansaroj9616/leetCode/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amansaroj9616/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amansaroj9616/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/amansaroj9616/leetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/amansaroj9616/leetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amansaroj9616/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amansaroj9616/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amansaroj9616/leetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amansaroj9616/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/amansaroj9616/leetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amansaroj9616/leetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amansaroj9616/leetCode/tree/master/0139-word-break) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amansaroj9616/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
