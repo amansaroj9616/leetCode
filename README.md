@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amansaroj9616/leetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/amansaroj9616/leetCode/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
 | [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amansaroj9616/leetCode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/amansaroj9616/leetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/amansaroj9616/leetCode/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/amansaroj9616/leetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/amansaroj9616/leetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/amansaroj9616/leetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/amansaroj9616/leetCode/tree/master/0877-stone-game) |
 | [1250-longest-common-subsequence](https://github.com/amansaroj9616/leetCode/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amansaroj9616/leetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/amansaroj9616/leetCode/tree/master/0877-stone-game) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
