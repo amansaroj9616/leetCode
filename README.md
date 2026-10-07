@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amansaroj9616/leetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amansaroj9616/leetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/amansaroj9616/leetCode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/amansaroj9616/leetCode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/amansaroj9616/leetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/amansaroj9616/leetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/amansaroj9616/leetCode/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/amansaroj9616/leetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/amansaroj9616/leetCode/tree/master/0647-palindromic-substrings) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/amansaroj9616/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/amansaroj9616/leetCode/tree/master/0401-binary-watch) |
 ## Brainteaser
 |  |
