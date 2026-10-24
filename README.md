@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/amansaroj9616/leetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2409-count-days-spent-together](https://github.com/amansaroj9616/leetCode/tree/master/2409-count-days-spent-together) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amansaroj9616/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/amansaroj9616/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amansaroj9616/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/amansaroj9616/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amansaroj9616/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2409-count-days-spent-together](https://github.com/amansaroj9616/leetCode/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amansaroj9616/leetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amansaroj9616/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3462-vowels-game-in-a-string](https://github.com/amansaroj9616/leetCode/tree/master/3462-vowels-game-in-a-string) |
