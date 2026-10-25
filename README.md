@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amansaroj9616/leetCode/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/amansaroj9616/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/amansaroj9616/leetCode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amansaroj9616/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1522-stone-game-iii](https://github.com/amansaroj9616/leetCode/tree/master/1522-stone-game-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/amansaroj9616/leetCode/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/amansaroj9616/leetCode/tree/master/1345-jump-game-iv) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amansaroj9616/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/amansaroj9616/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amansaroj9616/leetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/amansaroj9616/leetCode/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/amansaroj9616/leetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/amansaroj9616/leetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amansaroj9616/leetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amansaroj9616/leetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amansaroj9616/leetCode/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/amansaroj9616/leetCode/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amansaroj9616/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/amansaroj9616/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amansaroj9616/leetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amansaroj9616/leetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/amansaroj9616/leetCode/tree/master/3713-longest-balanced-substring-i) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/amansaroj9616/leetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
